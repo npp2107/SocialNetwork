@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42065517-d609-4b1d-b38f-f819015c479b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/DTO/profile/ProfileDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/DTO/profile/ProfileId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/DTO/profile/ProfileMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/DTO/profile/ProfileQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/ProfileAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/ProfilesAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/ProfilesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/models/ProfileModelMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/models/ProfileRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/models/ProfileResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/exception/ApplicationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/exception/MyResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/repository/ProfileEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/repository/ProfileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/service/profile/ProfileCommandService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/service/profile/ProfileQueryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/service/profile/ProfileUseCaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/utils/MySortHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProfileServer/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/config/OpenAPIConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/config/OpenAPIConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/ProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/ProfileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProfileServer/src/test/java/npp/socialnetwork/profileserver/ProfileServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/test/java/npp/socialnetwork/profileserver/ProfileEntityServerApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2upyI2OETh6JSlbOIhF8CM8fjOP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "ProfileService",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/LEARNING/MICROSERVICE_STU/PostServer/build.gradle",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42065517-d609-4b1d-b38f-f819015c479b" name="Changes" comment="" />
+      <created>1742959726629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742959726629</updated>
+      <workItem from="1742959728109" duration="361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
