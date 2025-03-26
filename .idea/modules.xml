@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MICROSERVICE_STU.iml" filepath="$PROJECT_DIR$/.idea/MICROSERVICE_STU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PostServer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PostServer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProfileServer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ProfileServer.main.iml" />
     </modules>
   </component>
 </project>

@@ -2,11 +2,11 @@ package npp.socialnetwork.profileserver.service.profile;
 
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
-import npp.socialnetwork.profileserver.DTO.profile.ProfileDto;
-import npp.socialnetwork.profileserver.DTO.profile.ProfileId;
-import npp.socialnetwork.profileserver.DTO.profile.ProfileMapper;
-import npp.socialnetwork.profileserver.repository.ProfileEntity;
-import npp.socialnetwork.profileserver.repository.ProfileRepository;
+import npp.socialnetwork.profileserver.dto.profile.ProfileDto;
+import npp.socialnetwork.profileserver.dto.profile.ProfileId;
+import npp.socialnetwork.profileserver.dto.profile.ProfileMapper;
+import npp.socialnetwork.profileserver.repository.profile.ProfileEntity;
+import npp.socialnetwork.profileserver.repository.profile.ProfileRepository;
 import npp.socialnetwork.profileserver.exception.MyResourceNotFoundException;
 import org.springframework.stereotype.Service;
 
