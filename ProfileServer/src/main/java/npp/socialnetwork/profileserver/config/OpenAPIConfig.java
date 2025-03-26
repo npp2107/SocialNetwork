@@ -18,7 +18,7 @@ public class OpenAPIConfig {
     public GroupedOpenApi publicApi(@Value("${openapi.service.api-docs}") String apiDocs) {
         return GroupedOpenApi.builder()
                 .group(apiDocs) // /v3/api-docss/api-service
-                .packagesToScan("npp.socialnetwork.controller")
+                .packagesToScan("npp.socialnetwork.profileserver.controller")
                 .build();
     }
 
