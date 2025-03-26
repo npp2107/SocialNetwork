@@ -5,69 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42065517-d609-4b1d-b38f-f819015c479b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/PostServer.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/ProfileServer.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/PostServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/config/MongoDBConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/config/OpenAPIConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/controller/comment/models/CommentRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/controller/comment/models/CommentResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/controller/post/PostAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/controller/post/PostController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/controller/post/PostsAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/controller/post/PostsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/controller/post/models/PostModelMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/controller/post/models/PostRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/controller/post/models/PostResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/dto/comment/CommentDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/dto/post/PostDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/dto/post/PostId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/dto/post/PostMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/dto/post/PostQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/exception/ApplicationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/exception/MyResourceNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/repository/comment/CommentEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/repository/post/PostEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/repository/post/PostRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/service/post/PostCommandService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/service/post/PostQueryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/service/post/PostUseCaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/utils/MySortHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/java/npp/socialnetwork/postserver/utils/TimeAuditable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostServer/src/test/java/npp/socialnetwork/postserver/PostServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/dto/profile/ProfileId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/utils/TimeAuditable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/PostServer.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/ProfileServer.main.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/DTO/profile/ProfileDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/dto/profile/ProfileDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/DTO/profile/ProfileId.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/DTO/profile/ProfileMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/dto/profile/ProfileMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/DTO/profile/ProfileQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/dto/profile/ProfileQuery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/ProfileAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/profile/ProfileAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/ProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/profile/ProfileController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/ProfilesAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/profile/ProfilesAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/ProfilesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/profile/ProfilesController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/models/ProfileModelMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/profile/models/ProfileModelMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/models/ProfileRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/profile/models/ProfileRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/models/ProfileResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/controller/profile/models/ProfileResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/repository/ProfileEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/repository/profile/ProfileEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/repository/ProfileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/repository/profile/ProfileRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/service/profile/ProfileCommandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/service/profile/ProfileCommandService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/service/profile/ProfileQueryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/service/profile/ProfileQueryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/service/profile/ProfileUseCaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/main/java/npp/socialnetwork/profileserver/service/profile/ProfileUseCaseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProfileServer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ProfileServer/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostServer/.gradle/8.13/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/PostServer/.gradle/8.13/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostServer/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/PostServer/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,11 +21,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$/PostServer">
+    <projectState path="$PROJECT_DIR$/IdentityServer">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/PostServer">
+      <ProjectState>
+        <option name="isInclusion" value="true" />
+      </ProjectState>
+    </projectState>
     <projectState path="$PROJECT_DIR$/ProfileServer">
-      <ProjectState />
+      <ProjectState>
+        <option name="isInclusion" value="true" />
+      </ProjectState>
     </projectState>
   </component>
   <component name="ExternalProjectsManager">
@@ -87,12 +40,7 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="PostServer" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -115,22 +63,42 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Build PostServer.executor": "Run",
+    "Gradle.Build ProfileServer.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "IdentityService",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/LEARNING/MICROSERVICE_STU/PostServer/build.gradle",
+    "last_opened_file_path": "C:/LEARNING/MICROSERVICE_STU/IdentityServer/build.gradle",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
   <component name="RunManager" selected="Spring Boot.PostServerApplication">
+    <configuration name="IdentityServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="IdentityServer.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="npp.socialnetwork.identityserver.IdentityServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PostServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="PostServer.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="npp.socialnetwork.postserver.PostServerApplication" />
