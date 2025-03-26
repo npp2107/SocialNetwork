@@ -2,9 +2,9 @@ package npp.socialnetwork.profileserver.service.profile;
 
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
-import npp.socialnetwork.profileserver.DTO.profile.ProfileDto;
-import npp.socialnetwork.profileserver.DTO.profile.ProfileId;
-import npp.socialnetwork.profileserver.DTO.profile.ProfileQuery;
+import npp.socialnetwork.profileserver.dto.profile.ProfileDto;
+import npp.socialnetwork.profileserver.dto.profile.ProfileId;
+import npp.socialnetwork.profileserver.dto.profile.ProfileQuery;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Service;
